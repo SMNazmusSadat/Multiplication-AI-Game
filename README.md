@@ -6,6 +6,8 @@ It is a two player game. Computer vs Human. Whoever cross the target or more fir
 3. Every turn human and computer multiply it's previous currentValue by some predefined number e.g [2, 3, 5, 7 or 9 ] and set the result as a new cuurrentValue.
 4. Whoever reach the target value or more first win the match.
 
+Minimax game playing Algorithm was used to implement this AI game.
+
 ## Requirement
 Python => 3.5
 ## Run
